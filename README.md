@@ -17,6 +17,10 @@ More than 80% of messages that we get in India are spam, with Carolyn we do **on
 
 The notifications may not work as expected on phones with aggressive battery optimisation approaches, disabling battery optimisation should help.
 
+# Downloads
+
+ - [Google Drive](https://drive.google.com/drive/u/1/folders/1lujOGu_Zf5Aye2DnlJdmciaophPAXh7K)
+
 # Demo
 
 ### The Login Page.
