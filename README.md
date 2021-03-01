@@ -5,7 +5,7 @@
 
 ### What can Carolyn do?
 
-Carolyn is meant to be an SMS app for Android which is smart enough to understand if a message is important enough to bother you with a notification or if it should show up in the main screen of your app.
+Carolyn is an SMS app for Android which understands if a message is important enough to bother you with a notification or if it should show up in the main screen of your app.
 
 More than 80% of messages that we get in India are spam, with Carolyn we do **on device classification** to classify each message as PERSONAL, SPAM, OTP, TRANSACTION and UPDATE so that you can focus on what's important.
 
