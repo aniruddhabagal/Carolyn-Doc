@@ -37,6 +37,6 @@ More than 80% of messages that we get in India are spam, with Carolyn we do **on
 
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/message.jpg" width="256" height="512">
 
-### Define your own rules.
+### Define your own rules, if the AI disappoints.
 
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/profile.jpg" width="256" height="512">
