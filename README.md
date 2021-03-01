@@ -14,22 +14,29 @@ More than 80% of messages that we get in India are spam, with Carolyn we do **on
 - We do not share or keep any user message or contact information, and kept locally, at all times. This information is solely used for the purpose of showing it to you, the user.
 - The notifications may not work as expected on phones with aggressive battery optimisation approaches, which is why we the might request the user to disable battery optimisation.
 
-### Screenshots
 
-The Login Page.
+# Demo
+
+### The Login Page.
+
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/login.jpg" width="256" height="512">
 
-Important SMSs first, OTPS.
+### Important SMSs first, OTPS.
+
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/otp.jpg" width="256" height="512">
 
-View spam, if you want to.
+### View spam, if you want to.
+
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/spam.jpg" width="256" height="512">
 
-The Control Panel.
+### The Control Panel.
+
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/dashboard.jpg" width="256" height="512">
 
-Say hello to ma.
+### Say hello to ma.
+
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/message.jpg" width="256" height="512">
 
-Define your own rules.
+### Define your own rules.
+
 <img src="https://github.com/siddhantkushwaha/Carolyn-Doc/raw/main/screenshots/profile.jpg" width="256" height="512">
