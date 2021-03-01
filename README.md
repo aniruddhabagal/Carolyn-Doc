@@ -12,8 +12,10 @@ More than 80% of messages that we get in India are spam, with Carolyn we do **on
 ### Privacy and Permissions
 - The messages are read by the app and classified by an on device ML model. 
 - We do not share or keep any user message or contact information, and kept locally, at all times. This information is solely used for the purpose of showing it to you, the user.
-- The notifications may not work as expected on phones with aggressive battery optimisation approaches, which is why we the might request the user to disable battery optimisation.
 
+### Note
+
+The notifications may not work as expected on phones with aggressive battery optimisation approaches, disabling battery optimisation should help.
 
 # Demo
 
